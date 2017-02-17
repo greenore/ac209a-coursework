@@ -12,7 +12,6 @@ DIRECTORY           | DESCRIPTION
 `.`                 | Files such as README and gitignore
 `./hw/`             | The homework project files
 `./labs/`           | Material from the labs
-`./labs/`           | Material from the labs
 `./lectures/`       | Material from the lectures
 `./midterm/`        | Material from the midterms
 `./project/`        | Material from the final project
