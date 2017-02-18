@@ -1,4 +1,4 @@
-# CS 109A - Advanced Topics in Data Science I
+# AC 209A - Advanced Topics in Data Science I
 Professional Graduate Data Science Coursework - Fall semester 2016
 
 ## Description: 
